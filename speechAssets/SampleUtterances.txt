@@ -1,0 +1,14 @@
+GetNewFactIntent a fact
+GetNewFactIntent a brogrammer fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a brogrammer fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a brogrammer fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a brogrammer trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a brogrammer trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some brogrammer information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
