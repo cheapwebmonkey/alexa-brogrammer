@@ -18,7 +18,9 @@ var data = [
     "Bug in my code? Bro, that's a feature",
     "Wanna bro down and crush some code?",
     "Dude, I'm a proud Men's Right's Activist. You mad, bro?",
-    "I store my passwords in clear text, because I don't give a. f.."
+    "I store my passwords in clear text, because I don't give a. f..",
+    "Do you even remember when coffee had an effect?",
+    "You either die as a web developer, or live long enough to call yourself a software engineer."
 ];
 
 
