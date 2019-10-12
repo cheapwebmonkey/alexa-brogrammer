@@ -18,7 +18,9 @@ var data = [
     "Bug in my code? Bro, that's a feature",
     "Wanna bro down and crush some code?",
     "Dude, I'm a proud Men's Right's Activist. You mad, bro?",
-    "I store my passwords in clear text, because I don't give a. f.."
+    "I store my passwords in clear text, because I don't give a. f..",
+    "Dude, there's this new thing it does everyting but sadly it's in preview. Bro who cares, it works right!",
+    "Why did you add that extra if there? I don't know it just looked great."
 ];
 
 
